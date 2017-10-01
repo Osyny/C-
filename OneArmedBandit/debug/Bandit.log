@@ -1,0 +1,10 @@
+﻿  drum.cpp
+  game.cpp
+  list.cpp
+  main.cpp
+main.cpp(6): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  menu.cpp
+  queue.cpp
+  Создание кода...
+  Bandit.vcxproj -> d:\MY\PROGECT_C++\C++_SPECIALIZE\QT_HOME_WORC\pr_2_24_01_BANDIT_LIST\Bandit\debug\Bandit.exe
+  Bandit.vcxproj -> debug\Bandit.pdb (Full PDB)
